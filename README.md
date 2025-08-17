@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name isVijaya Krishna and I'm a Student from Bangalore</p>
+<p align="left">My name is Vijaya Krishna and I'm a Student from Bangalore</p>
 
 ###
 
